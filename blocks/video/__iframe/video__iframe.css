@@ -1,5 +1,7 @@
 .video__iframe {
     margin: 0;
     padding: 0;
-   /* border: 1px solid red;*/
+    width: 515px;
+    height: 316px;
+    border: 0;
 }

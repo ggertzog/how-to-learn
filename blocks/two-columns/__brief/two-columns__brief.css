@@ -3,6 +3,6 @@
     line-height: 1.2;
     font-weight: normal;
     color: #2f80ed;
-    width: 175px;
+    max-width: 175px;
     margin: 0;
   }
