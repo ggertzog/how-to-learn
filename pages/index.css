@@ -1,3 +1,4 @@
+@import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
